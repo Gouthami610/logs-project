@@ -1,0 +1,11 @@
+# Ignore generated logs
+logs/
+invalid_lines.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local IDE config
+.vscode/
+.idea/

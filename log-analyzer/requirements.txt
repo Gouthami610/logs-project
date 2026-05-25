@@ -1,0 +1,4 @@
+# Python Log Analyzer Dependencies
+# This project solely utilizes the Python Standard Library (3.8+) modules.
+# No third-party pip installations are required to run the parser, analyzer, or log generator!
+# Just execute python3 main.py directly.
